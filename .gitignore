@@ -1,4 +1,7 @@
 /SemEval2024-task8/
-GraphNeuralNetwork/data/processed/
+GraphNeuralNetwork/data/raw/*
+!GraphNeuralNetwork/data/raw/.gitkeep
+GraphNeuralNetwork/data/processed/*
+!GraphNeuralNetwork/data/processed/.gitkeep
 datasets/*
 !datasets/.gitkeep
